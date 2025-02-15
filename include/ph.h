@@ -1,0 +1,1 @@
+#define Offset 0.00 // deviation compensate
